@@ -60,7 +60,7 @@ function About() {
               target="_blank"
               href="https://lucidmotors.com/available-cars/?trim=PURE"
             >
-              Lucid motor avilability,
+              Lucid motor availability,
             </Link>
             &nbsp;aimed at enhancing frontend development skills.
           </p>
