@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   server: {
-    port: 3001 // You can choose any available port here
+    port: 3000 // You can choose any available port here
   }
 }
 
