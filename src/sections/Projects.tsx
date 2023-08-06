@@ -27,10 +27,10 @@ function Projects() {
     },
     {
       image: "/project2.png",
-      projectName: "Hoo Bank",
-      projectLink: "https://super-pastelito-0faddd.netlify.app/",
+      projectName: "Airbus",
+      projectLink: "https://devsj-airbus.netlify.app/",
       projectDescription:
-        "Hoo Bank is a cutting-edge financial platform that empowers users with a wide array of banking services. This comprehensive app allows customers to manage accounts, transfer funds, pay bills, and monitor transactions securely. Utilizing advanced security features like biometric authentication and encryption, users can confidently conduct financial activities. The app also offers personalized financial insights, budgeting tools, and investment options to help customers make informed decisions. With a seamless user interface and real-time updates, the Advanced Bank App sets new standards for modern banking, delivering convenience and efficiency at their fingertips.",
+        "Airbus web app is an online platform that allows users to search, compare, and book flights for their travel needs. It offers a user-friendly interface where travelers can enter their departure and destination cities, travel dates, and passenger details to search for available flights. The app typically integrates with multiple airlines and flight booking systems, providing users with a wide range of flight options from various carriers. Users can filter search results based on preferences such as price, flight duration, stopovers, and airline preferences.",
       projectTech: [
         "React",
         "Sockets",
@@ -40,7 +40,7 @@ function Projects() {
       ],
       projectExternalLinks: {
         github: "",
-        externalLink: "https://super-pastelito-0faddd.netlify.app/",
+        externalLink: "https://devsj-airbus.netlify.app/",
       },
     },
     {

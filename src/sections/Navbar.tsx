@@ -5,8 +5,10 @@ import { GiHamburgerMenu } from "react-icons/gi";
 import { CgClose } from "react-icons/cg";
 import React, { useEffect, useState } from "react";
 import { motion } from "framer-motion";
+
 function Navbar() {
   const [navbarVisible, setNavbarVisible] = useState(false);
+  const [visible, setVisible] = useState(false)
   const [responsiveNavVisible, setResponsiveNavVisible] = useState(false);
   const sectionLinks = [
     { name: "About", link: "/#about" },
@@ -123,7 +125,7 @@ function Navbar() {
               delay: 0.6,
             }}
           >
-            <Button text="Resume" link="http://localhost:8000/VivekRavula..pdf" />
+            <Button text="Resume" link="http://localhost:8000/VivekRavula..pdf" />         
           </motion.div>
         </div>
       </div>

@@ -2,16 +2,16 @@
   "name": "nextjs-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Akshuc.github.io/Client1",
+
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint",
-    "predeploy":"npm run build",
-    "deploy" : "gh-pages -d build"
+    "start": "npm run dev",
+    "lint": "next lint"
+    
   },
   "dependencies": {
+    "@coreui/react": "^5.0.0-alpha.0",
     "@fortawesome/fontawesome-svg-core": "^6.4.2",
     "@fortawesome/free-solid-svg-icons": "^6.4.2",
     "@fortawesome/react-fontawesome": "^0.2.0",
