@@ -14,13 +14,13 @@ function SocialIcons() {
     {
       name: "LinkedIn",
       icon: <FiLinkedin />,
-      link: "https://www.linkedin.com/in/vivek-ravula-a4785a22b",
+      link: "https://www.linkedin.com/in/silas-paul-pachigalla-024391249",
     },
     
     {
       name: "Twitter",
       icon: <FaSkype />,
-      link: "https://join.skype.com/invite/rgdwppAJ1aB4",
+      link: "https://join.skype.com/invite/g4wZ5pZjnsUi",
     },
   ];
   return (
