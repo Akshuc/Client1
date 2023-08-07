@@ -25,23 +25,12 @@ function Footer() {
   return (
     <footer>
       <Link
-        href="https://github.com/koolkishan/chat-app-react-nodejs"
+        href="#"
         target="_blank"
         className="footer-link"
       >
-        <span className="footer-info">Designed and Built by Vivek Ravula.</span>
-        {githubInfo && (
-          <div className="footer-git">
-            <div className="footer-git-item">
-              <FaRegStar className="footer-git-item-icon" />
-              <span className="footer-git-item-text">{githubInfo.stars}</span>
-            </div>
-            <div className="footer-git-item">
-              <FiGitBranch className="footer-git-item-icon" />
-              <span className="footer-git-item-text">{githubInfo.forks}</span>
-            </div>
-          </div>
-        )}
+        <span className="footer-info">Designed and Built by Silas Paul.</span>
+        
       </Link>
     </footer>
   );
