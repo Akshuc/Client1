@@ -15,7 +15,7 @@ function Hero() {
           delay: 0.6,
         }}
       >
-        Hi my name is
+       My name is
       </motion.h1>
       <motion.h2
         className="hero-title-large"
@@ -27,7 +27,7 @@ function Hero() {
           delay: 0.75,
         }}
       >
-        Vivek Ravula
+       Silas Paul Pachigalla.
       </motion.h2>
       <motion.h3
         className="hero-title-large hero-title-sub"
@@ -39,7 +39,7 @@ function Hero() {
           delay: 1.05,
         }}
       >
-        I craft things for the web.
+      I am a Senior React.js Developer at Chai One.
       </motion.h3>
       <motion.p
         className="hero-text"
@@ -51,13 +51,14 @@ function Hero() {
           delay: 1.35,
         }}
       >
-        With 10 years of expereince in software engineering, I am currently a 
-        Senior Fullstack Developer at Lucid Motors, where i have built robust
-        enterprise applications to power product launches, customer engagement,
-        and more. I am dedicated to creating high-performing and user-focused solutions
-        at&nbsp;
+        With 10 years of professional experience in development and more than five years of React.js
+        experience. I specialize in transforming codebases and creating mobile interfaces. I have built 
+        several React.js projects from scratch, worked on prototypes for several innovative projects,
+        and solved complex coding problems.I am currently a Senior Lead Reactjs Developer at Chai One,
+        where i have built robust enterprise applications to power product launches, customer engagement,
+        and more. I am dedicated to creating high-performing and user-focused solutions at&nbsp;
         <Link href="https://lucidmotors.com/#trims" target="_blank" className="link">
-           Lucid Motors.
+           Chai One.
         </Link>
       </motion.p>
       <motion.div
