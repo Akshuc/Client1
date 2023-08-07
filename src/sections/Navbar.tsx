@@ -125,7 +125,7 @@ function Navbar() {
               delay: 0.6,
             }}
           >
-            <Button text="Resume" link="http://localhost:3000/VivekRavula..pdf" />
+            <Button text="Resume" link="https://drive.google.com/file/d/1ymO5_scNB2Usz-7KBcwTiKMb8jWhOgSI/view?usp=sharing"/>
           </motion.div>
         </div>
       </div>
