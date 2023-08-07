@@ -12,7 +12,7 @@ function Email() {
         delay: 1.95,
       }}
     >
-      <a href="spachigalla@yahoo.com" className="email-link">
+      <a href="mailto:spachigalla@yahoo.com" className="email-link">
       spachigalla@yahoo.com
       </a>
     </motion.div>
