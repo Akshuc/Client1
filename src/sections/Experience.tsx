@@ -16,7 +16,7 @@ function Experience() {
     {
       name: "Chai One",
       role: "Senior Lead React.js Developer",
-      url: "https://www.chaione.com/",
+      url: "https://www.chaione.com",
       start: "June 2021",
       end: "Present",
       shortDescription: [
