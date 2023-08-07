@@ -28,39 +28,40 @@ function About() {
       <div className="about-grid">
         <div className="about-grid-info">
           <p className="about-grid-info-text">
-            Bonjour! My name is Vivek, and I am passionate about creating
+            Bonjour! My name is Silas Paul, and I am passionate about creating 
             digital content for the web. My interest in web development was
-            sparked in 2008 when I created my first project called lavish, a
+            sparked in 2008 when I created my first project called Weather Update, a
             social media app built using React and Node.js.
           </p>
           <p className="about-grid-info-text">
             Fast-forward to today, I specialize in designing and developing
             high-quality solutions that delight our users and exceed their
             expectations at{" "}
-            <Link href="https://lucidmotors.com/#trims" className="link" target="_blank">
-              Lucid Motors.
+            <Link href="https://www.chaione.com/" className="link" target="_blank">
+              Chai One.
             </Link>
           </p>
 
           <p className="about-grid-info-text">
-            Additionally, I share my knowledge and passion with the world
-            through my Free sessions, where I demonstrate how to build
-            full-stack applications.
+          Additionally, I share my knowledge and passion with the world through my Free sessions,
+          where I demonstrate how to build full-stack applications.Apart from programming, I also
+          have a keen interest in public speaking, music, and admiring art. I am often seen sharing
+          my knowledge in the programming conferences and webinars. I am a cheerful person and I 
+          believe in making the work environment vibrant and friendly
           </p>
           <p className="about-grid-info-text">
-          I am currently working on a project to develop an online platform that
-          allows customers to customize and purchase their dream electric vehicles.
-          This platform will include features like 3D personalization, an intuitive user
-           interface, secure payment functions, and a direct interface with our production
-            team to provide the best customer experience possible. My team is developing the
-             platform using React, Node, and GraphQL, with the goal of making the user
-              experience as streamlined and enjoyable as you can see here at{" "}
+          I am currently working on a React project that is focused on creating a digital marketing
+          platform for an e-commerce business. We are using a combination of Reactjs, Redux, Nodejs,
+          and MongoDB to create a dynamic web application with user authentication and data management.
+          Our goal is to improve the user experience by implementing component libraries, adding responsive
+          design, and leveraging state management. We also plan to integrate some popular marketing tools to
+          facilitate efficient digital marketing strategies at.{" "}
             <Link
               className="link"
               target="_blank"
-              href="https://lucidmotors.com/available-cars/?trim=PURE"
+              href="https://www.chaione.com/what-we-do"
             >
-              Lucid motor availability,
+              Chai One what-we-do,
             </Link>
             &nbsp;aimed at enhancing frontend development skills.
           </p>
@@ -84,13 +85,13 @@ function About() {
             <li className="about-grid-info-list-item">Spring boot</li>
             <li className="about-grid-info-list-item">Jasper</li>
             <li className="about-grid-info-list-item">Github</li>
-            <li className="about-grid-info-list-item">Jenkins</li>
-            <li className="about-grid-info-list-item">Sonar</li>
+            <li className="about-grid-info-list-item">Mongo DB</li>
+            <li className="about-grid-info-list-item">Next js</li>
             <li className="about-grid-info-list-item">Kafka js</li>
             <li className="about-grid-info-list-item">Spring</li>
-            <li className="about-grid-info-list-item">Maven</li>
-            <li className="about-grid-info-list-item">Gradel</li>
-            <li className="about-grid-info-list-item">Tomcat</li>
+            <li className="about-grid-info-list-item">Azure</li>
+            <li className="about-grid-info-list-item">Sass</li>
+            <li className="about-grid-info-list-item">Vue js</li>
             <li className="about-grid-info-list-item">SQL</li>
             <li className="about-grid-info-list-item">MY SQL</li>
             <li className="about-grid-info-list-item">Postgress SQL</li>
@@ -98,13 +99,7 @@ function About() {
             
           </ul>
         </div>
-        <div className="about-grid-photo">
-          <div className="overlay"></div>
-          <div className="overlay-border"></div>
-          <div className="about-grid-photo-container">
-            {/* <Image src="/kishan.jpeg" alt="profile" fill /> */}
-          </div>
-        </div>
+        
       </div>
     </motion.div>
   );
