@@ -12,8 +12,8 @@ function Email() {
         delay: 1.95,
       }}
     >
-      <a href="vravula112@gmail.com" className="email-link">
-       vravula112@gmail.com
+      <a href="spachigalla@yahoo.com" className="email-link">
+      spachigalla@yahoo.com
       </a>
     </motion.div>
   );
