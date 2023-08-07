@@ -57,7 +57,7 @@ function Hero() {
         and solved complex coding problems.I am currently a Senior Lead Reactjs Developer at Chai One,
         where i have built robust enterprise applications to power product launches, customer engagement,
         and more. I am dedicated to creating high-performing and user-focused solutions at&nbsp;
-        <Link href="https://lucidmotors.com/#trims" target="_blank" className="link">
+        <Link href="https://www.chaione.com/" target="_blank" className="link">
            Chai One.
         </Link>
       </motion.p>
