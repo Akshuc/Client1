@@ -23,7 +23,7 @@ function Contact() {
         try my best to get back to you!
       </p>
       <div className="contact-cta">
-        <Button link="spachigalla@yahoo.com" text="Say Hello" />
+        <Button link="pachigallasilas@gmail.com" text="Say Hello" />
       </div>
     </motion.div>
   );
