@@ -83,7 +83,7 @@ function Experience() {
     {
       name: "Bank Of America",
       role: "Software Developer Executive",
-      url: "https://www.sephora.com/",
+      url: "https://www.bankofamerica.com/",
       start: "May 2012",
       end: "March 2014",
       shortDescription:[
