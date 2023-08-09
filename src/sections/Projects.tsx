@@ -46,7 +46,7 @@ function Projects() {
     {
       image: "/projectH.png",
       projectName: "JSM Headphones",
-      projectLink: "https://phenomenal-panda-8d5033.netlify.app/",
+      projectLink: "https://ecommerce-sanity-stripe-teal-two.vercel.app/",
       projectDescription:
         "The JSM Headphones is a user-friendly platform catering to headphone enthusiasts and music lovers. It offers a wide range of headphones from top brands, complete with detailed product pages, customer reviews, and ratings. Users can compare headphones, create wishlists, and enjoy a secure checkout process. With a recommendation engine, informative guides, and social sharing options, the app aims to provide an immersive and personalized shopping experience for all users.",
       projectTech: [
@@ -59,7 +59,7 @@ function Projects() {
       ],
       projectExternalLinks: {
         github: "",
-        externalLink: "https://phenomenal-panda-8d5033.netlify.app/",
+        externalLink: "https://ecommerce-sanity-stripe-teal-two.vercel.app/",
       },
     },
   ];
