@@ -1,13 +1,17 @@
 .about {
   margin: 15rem 0;
+  max-width: 5000px;
+  margin-top: 600px;
   .title {
     font-family: var(--raleway);
     color: var(--lightest-slate);
     position: relative;
+    
     h2 {
       margin-bottom: 2rem;
       font-size: var(--tx2large);
       font-weight: 700;
+      width: 1000px;
       &::before {
         counter-increment: title;
         content: "0" counter(title) ".";
@@ -28,7 +32,7 @@
   }
   &-grid {
     display: grid;
-    grid-template-columns: 60% 40%;
+    grid-template-columns: 100% 100%;
     gap: 1rem;
     &-info {
       display: flex;
