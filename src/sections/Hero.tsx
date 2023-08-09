@@ -29,8 +29,8 @@ function Hero() {
       >
        Silas Paul Pachigalla.
       </motion.h2>
-      <motion.h3
-        className="hero-title-large hero-title-sub"
+      <motion.h1
+        className="hero-title-2"
         initial={{ opacity: 0, y: 5 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{
@@ -40,7 +40,7 @@ function Hero() {
         }}
       >
       I am a Senior React.js Developer at Chai One.
-      </motion.h3>
+      </motion.h1>
       <motion.p
         className="hero-text"
         initial={{ opacity: 0, y: 5 }}
