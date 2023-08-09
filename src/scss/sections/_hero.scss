@@ -16,6 +16,10 @@
     font-family: var(--raleway);
     color: var(--light-slate);
   }
+  &-title-2{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
   &-title-sub {
     color: var(--lightest-slate);
   }
@@ -27,6 +31,7 @@
     line-height: 1.6rem;
     font-weight: 600;
     font-family: var(--raleway);
+    width: 1000px;
   }
   &-button {
     margin-top: 2rem;
